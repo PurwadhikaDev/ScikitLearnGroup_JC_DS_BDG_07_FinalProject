@@ -65,7 +65,7 @@ Deskripsi : Harga mobil satuan.
 ## **Categoric Variable Countplot**
 1. Transmisi manual masih menjadi unit mobil yang dijual paling banyak. Dibawahnya ada dua tipe transmisi yang memiliki jumlah unit yang tidak begitu jauh yaitu semi-auto dan juga automatic. <br>
 2. Untuk variable fuelType, Petrol dan Diesel menjadi jenis bahan bakar terbanyak jauh meninggalkan hybrid dan electric.
-3. Pada setiap tahun rilis, jumlah mobil yang dijual mengalami peningkatan, namun pengecualian untuk tahun 2018 yang mengalami penurunan dari tahun sebelumnya.
+3. Pada setiap tahun rilis, jumlah mobil yang dijual mengalami peningkatan, namun pengecualian untuk tahun 2018 dan 2020 yang mengalami penurunan dari tahun sebelumnya.
 
 <img src="img/kategorik.png" alt="Categoric Variable Countplot"/>
 
