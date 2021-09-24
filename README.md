@@ -70,8 +70,8 @@ Deskripsi : Harga mobil satuan.
 <img src="img/kategorik.png" alt="Categoric Variable Countplot"/>
 
 ## **Identify Missing Values, Duplicates, and Outlier**
-1. Terdapat data duplikat sebanyak blabla data.
-2. Terdapat missing Value sebanyak blablabla data pada kolom tax dan mpg pada model Focus dan C Class.
+1. Terdapat data duplikat sebanyak 10150 data.
+2. Terdapat missing Value sebanyak 697 data pada kolom tax dan mpg pada model Focus dan C Class.
 3. Terdapat anomali data pada variable tertentu.
 4. Terdapat outlier pada beberapa variable namun kami memutuskan untuk tidak menghapus data tersebut dikarenakan kami menilai ada informasi penting pada data tersebut.
 
